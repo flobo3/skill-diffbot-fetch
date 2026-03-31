@@ -4,7 +4,7 @@ Fetch and extract clean article content from any URL using the Diffbot Article A
 
 ## Features
 - Extracts title, author, date, and main text content
-- Bypasses paywalls and popups using Diffbot's AI vision
+- Intelligently extracts content using Diffbot's AI vision
 - Returns clean Markdown output
 - Handles complex layouts and multi-page articles
 
